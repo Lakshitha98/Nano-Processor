@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jul 14 16:54:38 2022
+# Process ID: 6936
+# Current directory: C:/Users/Adithya/digital_design_labs/Nanoprocessor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13024 C:\Users\Adithya\digital_design_labs\Nanoprocessor\Nanoprocessor.xpr
+# Log file: C:/Users/Adithya/digital_design_labs/Nanoprocessor/vivado.log
+# Journal file: C:/Users/Adithya/digital_design_labs/Nanoprocessor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Adithya/digital_design_labs/Nanoprocessor/Nanoprocessor.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/Adithya/Desktop/Nanoprocessor_Sim_behav.wcfg
+source Nanoprocessor_Sim.tcl
+close_sim

@@ -1,0 +1,36 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 7c6d9fa3faff4e55980923b764a4d6cd --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot sim_nanoprocessor_with_7_segment_display_behav xil_defaultlib.sim_nanoprocessor_with_7_segment_display -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.Slow_Clk [slow_clk_default]
+Compiling architecture behavioral of entity xil_defaultlib.Decoder_2_to_4 [decoder_2_to_4_default]
+Compiling architecture behavioral of entity xil_defaultlib.Decoder_3_to_8 [decoder_3_to_8_default]
+Compiling architecture behavioral of entity xil_defaultlib.Reg [reg_default]
+Compiling architecture behavioral of entity xil_defaultlib.Register_Bank [register_bank_default]
+Compiling architecture behavioral of entity xil_defaultlib.D_FF [d_ff_default]
+Compiling architecture behavioral of entity xil_defaultlib.Counter [counter_default]
+Compiling architecture behavioral of entity xil_defaultlib.HA [ha_default]
+Compiling architecture behavioral of entity xil_defaultlib.FA [fa_default]
+Compiling architecture behavioral of entity xil_defaultlib.Adder_3bit [adder_3bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.RCA_4 [rca_4_default]
+Compiling architecture behavioral of entity xil_defaultlib.ADD_SUB_4bit [add_sub_4bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.ID [id_default]
+Compiling architecture behavioral of entity xil_defaultlib.Decoder_1_to_2 [decoder_1_to_2_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2_1_3bit [mux_2_1_3bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2_1_4bit [mux_2_1_4bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_8_1_4bit [mux_8_1_4bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.LUT_8_12 [lut_8_12_default]
+Compiling architecture behavioral of entity xil_defaultlib.Nanoprocessor_Group_11 [nanoprocessor_group_11_default]
+Compiling architecture behavioral of entity xil_defaultlib.LUT_16_7 [lut_16_7_default]
+Compiling architecture behavioral of entity xil_defaultlib.nanoprocessor_with_7_segment_display [nanoprocessor_with_7_segment_dis...]
+Compiling architecture behavioral of entity xil_defaultlib.sim_nanoprocessor_with_7_segment...
+Built simulation snapshot sim_nanoprocessor_with_7_segment_display_behav

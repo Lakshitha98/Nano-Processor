@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1658914390">
+  <File Type="BITSTR-BMM" Name="nanoprocessor_with_7_segment_display_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="nanoprocessor_with_7_segment_display_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="nanoprocessor_with_7_segment_display_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="nanoprocessor_with_7_segment_display_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="nanoprocessor_with_7_segment_display.tcl"/>
+  <File Type="OPT-TIMING" Name="nanoprocessor_with_7_segment_display_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="nanoprocessor_with_7_segment_display_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="nanoprocessor_with_7_segment_display_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="nanoprocessor_with_7_segment_display_reports.tcl"/>
+  <File Type="OPT-DRC" Name="nanoprocessor_with_7_segment_display_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="nanoprocessor_with_7_segment_display.hwdef"/>
+  <File Type="PWROPT-DCP" Name="nanoprocessor_with_7_segment_display_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="nanoprocessor_with_7_segment_display_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="nanoprocessor_with_7_segment_display_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="nanoprocessor_with_7_segment_display_placed.dcp"/>
+  <File Type="PLACE-IO" Name="nanoprocessor_with_7_segment_display_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="nanoprocessor_with_7_segment_display_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="nanoprocessor_with_7_segment_display_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="nanoprocessor_with_7_segment_display_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="nanoprocessor_with_7_segment_display_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="nanoprocessor_with_7_segment_display_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="nanoprocessor_with_7_segment_display_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="nanoprocessor_with_7_segment_display.bgn"/>
+  <File Type="PLACE-TIMING" Name="nanoprocessor_with_7_segment_display_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="nanoprocessor_with_7_segment_display_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="nanoprocessor_with_7_segment_display.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="nanoprocessor_with_7_segment_display_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="nanoprocessor_with_7_segment_display_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="nanoprocessor_with_7_segment_display_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="nanoprocessor_with_7_segment_display.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="nanoprocessor_with_7_segment_display_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="nanoprocessor_with_7_segment_display_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="nanoprocessor_with_7_segment_display_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="nanoprocessor_with_7_segment_display_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="nanoprocessor_with_7_segment_display_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="nanoprocessor_with_7_segment_display_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="nanoprocessor_with_7_segment_display.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="nanoprocessor_with_7_segment_display_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="nanoprocessor_with_7_segment_display.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="nanoprocessor_with_7_segment_display_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="nanoprocessor_with_7_segment_display_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="nanoprocessor_with_7_segment_display.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="nanoprocessor_with_7_segment_display_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="nanoprocessor_with_7_segment_display_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="nanoprocessor_with_7_segment_display_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="nanoprocessor_with_7_segment_display_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="nanoprocessor_with_7_segment_display_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="nanoprocessor_with_7_segment_display_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="nanoprocessor_with_7_segment_display_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="nanoprocessor_with_7_segment_display_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="nanoprocessor_with_7_segment_display_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="nanoprocessor_with_7_segment_display_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="nanoprocessor_with_7_segment_display_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="nanoprocessor_with_7_segment_display_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="nanoprocessor_with_7_segment_display_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="nanoprocessor_with_7_segment_display_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="nanoprocessor_with_7_segment_display_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="nanoprocessor_with_7_segment_display_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="nanoprocessor_with_7_segment_display_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="nanoprocessor_with_7_segment_display_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="nanoprocessor_with_7_segment_display_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="nanoprocessor_with_7_segment_display.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="nanoprocessor_with_7_segment_display_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="nanoprocessor_with_7_segment_display.rbt"/>
+  <File Type="BITSTR-NKY" Name="nanoprocessor_with_7_segment_display.nky"/>
+  <File Type="BG-DRC" Name="nanoprocessor_with_7_segment_display.drc"/>
+  <File Type="RDI-RDI" Name="nanoprocessor_with_7_segment_display.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/new/ADD_SUB_4bit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/new/ADD_SUB_4bit.vhd"/>
+        <Attr Name="ImportTime" Val="1657772825"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/3_bit_Adder/3_bit_Adder.srcs/sources_1/new/Adder_3bit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../3_bit_Adder/3_bit_Adder.srcs/sources_1/new/Adder_3bit.vhd"/>
+        <Attr Name="ImportTime" Val="1657225875"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Program_Counter/Program_Counter.srcs/sources_1/imports/new/Counter.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Program_Counter/Program_Counter.srcs/sources_1/imports/new/Counter.vhd"/>
+        <Attr Name="ImportTime" Val="1657271085"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Program_Counter/Program_Counter.srcs/sources_1/imports/new/D_FF.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Program_Counter/Program_Counter.srcs/sources_1/imports/new/D_FF.vhd"/>
+        <Attr Name="ImportTime" Val="1655352606"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Mux_2_1_3bit/Project_9_2.srcs/sources_1/new/Decoder_1_to_2.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Mux_2_1_3bit/Project_9_2.srcs/sources_1/new/Decoder_1_to_2.vhd"/>
+        <Attr Name="ImportTime" Val="1657436600"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Mux_8_1/Lab9.srcs/sources_1/imports/new/Decoder_2_to_4.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Mux_8_1/Lab9.srcs/sources_1/imports/new/Decoder_2_to_4.vhd"/>
+        <Attr Name="ImportTime" Val="1657390946"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Mux_8_1/Lab9.srcs/sources_1/imports/new/Decoder_3_to_8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Mux_8_1/Lab9.srcs/sources_1/imports/new/Decoder_3_to_8.vhd"/>
+        <Attr Name="ImportTime" Val="1654766566"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/imports/new/FA.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/imports/new/FA.vhd"/>
+        <Attr Name="ImportTime" Val="1653559495"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/imports/new/HA.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/imports/new/HA.vhd"/>
+        <Attr Name="ImportTime" Val="1653557256"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Instruction_Decoder/Instruction_Decoder.srcs/sources_1/new/ID.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Instruction_Decoder/Instruction_Decoder.srcs/sources_1/new/ID.vhd"/>
+        <Attr Name="ImportTime" Val="1657536090"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/progam_rom/progam_rom.srcs/sources_1/imports/new/LUT_16_7.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../progam_rom/progam_rom.srcs/sources_1/imports/new/LUT_16_7.vhd"/>
+        <Attr Name="ImportTime" Val="1657535611"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/LUT_16_7.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab_7/lab_7.srcs/sources_1/new/LUT_16_7.vhd"/>
+        <Attr Name="ImportTime" Val="1655963637"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Mux_2_1_3bit/Project_9_2.srcs/sources_1/new/MUX_2_1_3bit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Mux_2_1_3bit/Project_9_2.srcs/sources_1/new/MUX_2_1_3bit.vhd"/>
+        <Attr Name="ImportTime" Val="1657442414"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Mux_2_1_4bit/Project_9_3.srcs/sources_1/new/MUX_2_1_4bit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Mux_2_1_4bit/Project_9_3.srcs/sources_1/new/MUX_2_1_4bit.vhd"/>
+        <Attr Name="ImportTime" Val="1657440412"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Mux_8_1/Lab9.srcs/sources_1/new/MUX_8_1_4bit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Mux_8_1/Lab9.srcs/sources_1/new/MUX_8_1_4bit.vhd"/>
+        <Attr Name="ImportTime" Val="1657393594"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Nanoprocessor_Group_11.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/imports/new/RCA_4.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../4_bit_Add_Sub_Unit/4_bit_Add_Sub_Unit.srcs/sources_1/imports/new/RCA_4.vhd"/>
+        <Attr Name="ImportTime" Val="1653677064"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/register_bank/LAB09.srcs/sources_1/imports/sources_1/new/Reg.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../register_bank/LAB09.srcs/sources_1/imports/sources_1/new/Reg.vhd"/>
+        <Attr Name="ImportTime" Val="1655735816"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/register_bank/LAB09.srcs/sources_1/new/Register_Bank.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../register_bank/LAB09.srcs/sources_1/new/Register_Bank.vhd"/>
+        <Attr Name="ImportTime" Val="1657342140"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/digital_design_labs/Program_Counter/Program_Counter.srcs/sources_1/imports/new/Slow_Clk.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Program_Counter/Program_Counter.srcs/sources_1/imports/new/Slow_Clk.vhd"/>
+        <Attr Name="ImportTime" Val="1655355037"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/nanoprocessor_with_7_segment_display.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="nanoprocessor_with_7_segment_display"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/digital_design_labs/Basys3Labs.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab_7/lab_7.srcs/constrs_1/imports/digital_design_labs/Basys3Labs.xdc"/>
+        <Attr Name="ImportTime" Val="1655980734"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
